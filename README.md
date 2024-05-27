@@ -1,4 +1,4 @@
-## Olá! Prazer Gabriel Nascimento
+## Opa! Prazer, eu sou o Gabriel Nascimento
 🧪 Cursando Análise e Desenvolvimento de Sistemas
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ogabrielgsn&show_icons=true&theme=merko"/>

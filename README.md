@@ -1,5 +1,6 @@
 ## Olá! Prazer Gabriel Nascimento
 🧪 Cursando Análise e Desenvolvimento de Sistemas
+
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ogabrielgsn&show_icons=true&theme=merko"/>
 <img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogabrielgsn&show_icons=true&theme=merko&layout=compact"/>
 

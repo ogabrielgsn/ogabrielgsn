@@ -2,5 +2,4 @@
 - 🔭 Estudante - Análise e Desenvolvimento de Sistemas
 - 🌱 Focando em Python 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ogabrielgsn_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

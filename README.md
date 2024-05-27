@@ -3,4 +3,4 @@
 - 🌱 Focando em Python 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogabrielgsn_icons=true&theme=transparent)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogabrielgsn)](https://github.com/anuraghazra/github-readme-stats)

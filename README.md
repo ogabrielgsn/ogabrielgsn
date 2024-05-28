@@ -1,5 +1,7 @@
 ## Wellcome, imma Gabriel and thats my git
-🧪 Cursando Análise e Desenvolvimento de Sistemas /n
+🧪 Cursando Análise e Desenvolvimento de Sistemas 
+   
+   
    🧪 Studying Systems Analysis and Development
 
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ogabrielgsn&show_icons=true&theme=merko"/>
